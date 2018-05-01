@@ -1,1 +1,1 @@
-"# getAPI_AlQuran" 
+Get API from https://alquran.cloud/api
